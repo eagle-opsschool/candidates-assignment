@@ -1,2 +1,2 @@
-name: first last
-email: name@email.com
+name: Omer Shechter
+email: omers _ Shtrudel _ eagle-labs.co.il
